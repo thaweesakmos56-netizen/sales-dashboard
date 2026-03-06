@@ -152,10 +152,15 @@ define('DB_NAME', 'sales_dashboard');
 
 ## 👨‍💻 พัฒนาโดย
 
-thaweesak seeangrat
+Thaweesak Seeangrat
+Computer Science Student
+สนใจด้าน Software Development, Web Development และ Automation
+
+GitHub
+https://github.com/thaweesakmos56-netizen
 
 ---
 
 ## 📄 License
 
-MIT License — ใช้สำหรับการศึกษา
+MIT License — โปรเจคนี้สร้างขึ้นเพื่อการศึกษาและพัฒนาเท่านั้น
