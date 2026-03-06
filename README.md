@@ -56,13 +56,12 @@ sales-dashboard/
 
 ### ความต้องการของระบบ
 - [XAMPP](https://www.apachefriends.org/) (Apache + MySQL + PHP 8.x)
-- Browser รุ่นใหม่ (Chrome, Firefox, Edge)
 
 ### ขั้นตอนการติดตั้ง
 
 **1. Clone หรือดาวน์โหลดโปรเจกต์**
 ```bash
-git clone https://github.com/yourusername/sales-dashboard.git
+git clone https://github.com/thaweesakmos56-netizen/sales-dashboard.git
 ```
 
 **2. วางโฟลเดอร์ใน htdocs**
@@ -153,11 +152,10 @@ define('DB_NAME', 'sales_dashboard');
 
 ## 👨‍💻 พัฒนาโดย
 
-สร้างเป็น Junior Developer Portfolio Project  
-Stack: PHP + MySQL + Vanilla JS + Chart.js
+thaweesak seeangrat
 
 ---
 
 ## 📄 License
 
-MIT License — ใช้งานได้อย่างอิสระสำหรับการศึกษาและ Portfolio
+MIT License — ใช้สำหรับการศึกษา
